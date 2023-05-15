@@ -1,0 +1,6 @@
+.env
+.session
+*env
+*.session
+*#downloads
+
